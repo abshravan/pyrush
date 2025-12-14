@@ -1,0 +1,14 @@
+# Requirements for Workshop Programs
+
+# OpenCV and Computer Vision (Programs 1-23)
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Web Automation with Playwright (Programs 24-37)
+playwright>=1.40.0
+Pillow>=10.0.0
+
+# Optional: For Jupyter notebooks (if converting back)
+# ipywidgets>=8.0.0
